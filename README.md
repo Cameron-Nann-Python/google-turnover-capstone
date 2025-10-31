@@ -13,7 +13,7 @@ The random forest model achieved a 0.92 recall score on the test data. The featu
 </center>
 
 ## 🗒️ Python Notebook
-The `salifort_motors_capstone_project.ipynb` file within the `notebooks` folder walks through the data cleaning process and modeling steps.
+The `salifort_motors_capstone_project.ipynb` file within the `notebooks` folder walks through the data cleaning process and modeling steps. The model performed well after hyperparameter tuning with GridSearchCV, resulting low values for false positives and false negatives.
 
 <center>
 <img width="565" height="441" alt="image" src="https://github.com/user-attachments/assets/44a95942-0bd8-403e-b403-a198e0e1adad" />
